@@ -1,0 +1,8 @@
+#ignorar pycache
+__pycache__/
+
+#los archivos .txt
+*.txt
+
+#los archivos .pdf
+*.pdf
